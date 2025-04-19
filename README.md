@@ -28,7 +28,7 @@ Tudo em um só lugar, com automações que se adaptam às suas necessidades.
 ## ⚙️ Tecnologias que usamos
 
 - [n8n](https://n8n.io) – Automação de fluxos
-- [Evolution API](https://evolutionapi.com) – Integrações e comunicações
+- [Evolution API](https://doc.evolution-api.com/v1/pt/get-started/introduction) – Integrações e comunicações
 - Inteligência Artificial (OpenAI, NLP, IA generativa)
 - Bots personalizados para WhatsApp, web e sistemas internos
 
