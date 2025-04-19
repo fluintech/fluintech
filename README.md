@@ -71,7 +71,7 @@ Quer saber como a Fluintech pode transformar sua operação?
 Entre em contato com a gente:
 
 - 🌐 Site: [https://fluintech.com.br](https://fluintech.com.br)
-- 📧 Email: contato@fluintech.com.br
+- 📧 Email: fluintech@fluintech.com.br
 - 📱 WhatsApp: [número de contato aqui]
 
 ---
