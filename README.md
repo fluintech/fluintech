@@ -2,6 +2,25 @@
 
 **Automação inteligente para empresas de manutenção.**
 
+<p align="center">
+  <img src="https://github.com/fluintech.png" alt="Fluintech Logo" width="200"/>
+</p>
+
+---
+
+## 🎨 Identidade Visual
+
+### Paleta de Cores
+
+| Cor            | Hex       | Uso recomendado              |
+|----------------|-----------|------------------------------|
+| Roxo Primário  | `#7A40E5` | Botões, ícones, destaques    |
+| Roxo Claro     | `#C9B7F7` | Planos de fundo suaves       |
+| Cinza Escuro   | `#2E2E2E` | Textos e títulos             |
+| Branco         | `#FFFFFF` | Fundo principal              |
+
+> Dica: Utilize o roxo principal (`#7A40E5`) para manter uma identidade forte e tecnológica.
+
 ---
 
 ## 🧠 Sobre nós
@@ -59,4 +78,5 @@ Entre em contato com a gente:
 
 ## 📌 Nota
 
-Este repositório é mantido pela equipe da Fluintech. Fique à vontade para abrir *issues* com dúvidas ou sugestões!
+Este repositório é mantido pela equipe da Fluintech.  
+Fique à vontade para abrir *issues* com dúvidas ou sugestões!
